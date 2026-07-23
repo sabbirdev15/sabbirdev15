@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Sabbir Hossain 👋
 
-<!--
-**sabbirdev15/sabbirdev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+🌍 Bangladeshi | Studying in China 🇨🇳  
+💻 Passionate about Programming and Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 BSc in Computer Science & Engineering
+- 🌱 Currently learning C Programming
+- 📚 Next goals: C++, Data Structures & Algorithms
+- 💡 Interested in Software Development
+- 🎯 Dream: Complete MSc in Europe and become a Software Engineer
+
+---
+
+## 🛠️ Skills
+
+- C (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- C Programming
+- Git & GitHub
+- Problem Solving
+
+---
+
+## 🚀 2026 Goals
+
+- ✅ Master C Programming
+- ✅ Learn Data Structures & Algorithms
+- ✅ Build 5+ Projects
+- ✅ Improve English Speaking
+- ✅ Contribute to Open Source
+
+---
+
+## 📂 Featured Projects
+
+🚧 Coming Soon...
+
+- Student Management System
+- Library Management System
+- Data Structures in C
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: sh695432@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
